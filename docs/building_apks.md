@@ -1,6 +1,6 @@
 * [Report issue](../README.md#create_issue)
 
-Buildin APK
+Building APKs
 ===
 You can mostly follow the instructions in the SL4A Wiki:
 
